@@ -30,7 +30,8 @@ public class Java_action extends CustomJavaAction<java.lang.Long>
 	{
 		// BEGIN USER CODE
 //		throw new com.mendix.systemwideinterfaces.MendixRuntimeException("Java action was not implemented");
-		return (this.num + 2);
+		return (this.num + 3);
+		
 		// END USER CODE
 	}
 
